@@ -24,6 +24,9 @@ function ComicsList() {
       {/* once you've shown all the comics, set up the form below to add a new comic */}
       <ComicForm />
 
+      {/* as a bonus once you're done... */}
+      {/* can you add a delete button to comic card to remove it from the comics array? */}
+
     </div>
   )
 }
