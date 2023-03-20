@@ -18,7 +18,7 @@ function RaccoonsList() {
   return (
     <div className="raccoons-list border-black">
 
-      <h2>Raccoons</h2>
+      <h2>🦝 Raccoons 🦝</h2>
 
       <RaccoonForm />
 

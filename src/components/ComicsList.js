@@ -10,7 +10,7 @@ function ComicsList() {
   return (
     <div className="comics-list border-black">
 
-      <h2>Comics</h2>
+      <h2>🦸 Comics 🦸</h2>
 
       <div className="flex">
 

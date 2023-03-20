@@ -12,7 +12,7 @@
 
 - Learn how to make a post request to add additional data
 
-- BONUS: Learn how to do full CRUD with an array in state 
+- BONUS: Learn how to do full CRUD with an array in state
 
 ## Tools
 
