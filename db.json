@@ -51,6 +51,18 @@
       "title": "Detective Comics",
       "issue": "38",
       "image_url": "https://d1466nnw0ex81e.cloudfront.net/n_iv/600/5401401.jpg"
+    },
+    {
+      "title": "Thor",
+      "issue": "2",
+      "image_url": "https://cdn.marvel.com/u/prod/marvel/i/mg/c/20/62b9e0abe47c3/clean.jpg",
+      "id": 6
+    },
+    {
+      "title": "Iron Man",
+      "issue": "3",
+      "image_url": "https://cdn.marvel.com/u/prod/marvel/i/mg/3/20/5a6b52302964d/clean.jpg",
+      "id": 7
     }
   ]
 }
