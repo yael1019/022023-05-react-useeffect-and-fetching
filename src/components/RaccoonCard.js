@@ -1,8 +1,8 @@
-function RaccoonCard({ name, favFood }) {
+function RaccoonCard({ raccoon }) {
     return (
         <div className="border-black">
-            <h2>Name: {name}</h2>
-            <p>Favorite Food: {favFood}</p>
+            <h2>Name: {raccoon.name}</h2>
+            <p>Favorite Food: {raccoon.favFood}</p>
         </div>
     )
 }
