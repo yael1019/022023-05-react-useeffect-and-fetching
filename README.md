@@ -16,6 +16,6 @@
 
 Begin with `npm install` and `npm start`
 
-In a seperate terminal tab you can run the json-server with `npm run server`.
+In a seperate terminal tab you can run the json-server with `npm run server`. This works because we added a new script called `server` in our `package.json'.
 
 Your endpoints are `http://localhost:3002/raccoons` and `http://localhost:3002/comics`.
